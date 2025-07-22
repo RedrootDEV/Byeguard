@@ -1,0 +1,43 @@
+{
+    "FixedFileInfo": {
+        "FileVersion": {
+            "Major": 1,
+            "Minor": 0,
+            "Patch": 0,
+            "Build": 0
+        },
+        "ProductVersion": {
+            "Major": 1,
+            "Minor": 0,
+            "Patch": 0,
+            "Build": 0
+        },
+        "FileFlagsMask": "3f",
+        "FileFlags": "00",
+        "FileOS": "040004",
+        "FileType": "01",
+        "FileSubType": "00"
+    },
+    "StringFileInfo": {
+        "Comments": "Byeguard - A simple tool to enable or disable Riot Vanguard anti-cheat on Windows.",
+        "CompanyName": "RedrootDEV (https://github.com/RedrootDEV)",
+        "FileDescription": "Byeguard - Riot Vanguard Enable/Disable Utility",
+        "FileVersion": "1.0.0.0",
+        "InternalName": "Byeguard",
+        "LegalCopyright": "© 2025 RedrootDEV. Licensed under the MIT License.",
+        "LegalTrademarks": "Documentation and license available at https://github.com/RedrootDEV/Byeguard",
+        "OriginalFilename": "Byeguard.exe",
+        "PrivateBuild": "Public release. Contributions welcome at GitHub.",
+        "ProductName": "Byeguard",
+        "ProductVersion": "1.0.0.0",
+        "SpecialBuild": "Standard build without additional modifications."
+    },
+    "VarFileInfo": {
+        "Translation": {
+            "LangID": "0409",
+            "CharsetID": "04B0"
+        }
+    },
+    "IconPath": "icon.ico",
+    "ManifestPath": ""
+}
